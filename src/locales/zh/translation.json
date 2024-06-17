@@ -1,0 +1,22 @@
+{
+  "name": "你好 👋，我是岑昱",
+  "job": "前端开发工程师",
+  "dreamTitle": "梦想 😴",
+  "dream": "搞钱💰！！！",
+  "aboutTitle": "关于我 🫣",
+  "eduactionTitle": "教育背景 🎓",
+  "educationalBackground": "本科：2020.9 ~ 2024.7",
+  "major": "太原理工大学 软件工程专业",
+  "experienceTitle": "经历",
+  "experience1": "目前在美团到店事业群从事前端开发工程师岗位",
+  "skillsTitle": "技术栈 🛠",
+  "doing": "最近的兴趣点 💗",
+  "doing1": "技术相关：LangChain、Python",
+  "doing2": "非技术相关：自媒体、学习英语",
+  "etc": "等等",
+  "connect": "与我联系",
+  "description": {
+    "part1": "Um loszulegen, ändere <1>src/App(DE).js</1> und speichere um neuzuladen.",
+    "part2": "Wechsle die Sprache zwischen deutsch und englisch mit Hilfe der beiden Schalter."
+  }
+}

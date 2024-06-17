@@ -1,0 +1,22 @@
+{
+  "name": "Hi there👋, my name is Kevin Cen",
+  "job": "Frontend Engineer",
+  "dreamTitle": "Dream 😴",
+  "dream": "Make a lot of money💰 !!!",
+  "aboutTitle": "About Me 🫣",
+  "eduactionTitle": "Education 🎓",
+  "educationalBackground": "Bachelor: 09/2020 ~ 07/2024",
+  "major": "Taiyuan University of Technology, Software Engineering",
+  "experienceTitle": "Experience",
+  "experience1": "Currently at Meituan in Beijing, a leading company serving the Chinese food delivery market, working as a front-end development engineer.",
+  "skillsTitle": "Skills 🛠",
+  "doing": "Recent Points of Interest 💗",
+  "doing1": "Technical：LangChain、Python",
+  "doing2": "Non-technical：Self-media、English Learning",
+  "etc": "etc",
+  "connect": "CONNECT WITH ME",
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  }
+}
